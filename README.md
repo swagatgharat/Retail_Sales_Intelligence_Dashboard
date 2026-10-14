@@ -89,8 +89,8 @@ The complete interactive reporting suite consists of three specialized executive
 ### Page 1: Executive Revenue & Profit Overview
 
 <p align="center">
-  <a href="./power_bi/page1_executive_overview.jpg">
-    <img src="./power_bi/page1_executive_overview.jpg" alt="Page 1: Executive Revenue & Profit Overview" width="100%" />
+  <a href="./power_bi/page1_executive_overview.webp">
+    <img src="./power_bi/page1_executive_overview.webp" alt="Page 1: Executive Revenue & Profit Overview" width="100%" />
   </a>
   <br>
   <em><b>Figure 1: Executive Revenue & Profit Overview</b> — Company-wide KPI ribbon ($2.30M Sales, $286.4K Profit), 4-year seasonality trend line, and category profit comparison. (Click image to inspect in full resolution)</em>
@@ -110,8 +110,8 @@ The complete interactive reporting suite consists of three specialized executive
 ### Page 2: Product & Profitability Deep Dive
 
 <p align="center">
-  <a href="./power_bi/page2_product_profitability.jpg">
-    <img src="./power_bi/page2_product_profitability.jpg" alt="Page 2: Product & Profitability Deep Dive" width="100%" />
+  <a href="./power_bi/page2_product_profitability.webp">
+    <img src="./power_bi/page2_product_profitability.webp" alt="Page 2: Product & Profitability Deep Dive" width="100%" />
   </a>
   <br>
   <em><b>Figure 2: Product & Profitability Deep Dive</b> — Margin analysis scatter plot with 0% break-even line, AI root-cause decomposition tree, and ranked product margin table. (Click image to inspect in full resolution)</em>
@@ -130,8 +130,8 @@ The complete interactive reporting suite consists of three specialized executive
 ### Page 3: Customer & Regional Dynamics
 
 <p align="center">
-  <a href="./power_bi/page3_customer_regional.jpg">
-    <img src="./power_bi/page3_customer_regional.jpg" alt="Page 3: Customer & Regional Dynamics" width="100%" />
+  <a href="./power_bi/page3_customer_regional.webp">
+    <img src="./power_bi/page3_customer_regional.webp" alt="Page 3: Customer & Regional Dynamics" width="100%" />
   </a>
   <br>
   <em><b>Figure 3: Customer & Regional Dynamics</b> — US geographic bubble map, customer segment revenue distribution (Consumer 50.56%), and carrier SLA delivery turnaround analysis. (Click image to inspect in full resolution)</em>
@@ -246,9 +246,9 @@ retail-sales-intelligence-dashboard/
 │   └── superstore_sales.csv                    # Raw multi-year transactional dataset (~9,994 rows)
 ├── power_bi/
 │   ├── Retail Sales Intelligence Dashboard.pbix # Primary executive Power BI dashboard
-│   ├── page1_executive_overview.jpg            # Page 1: Executive Revenue & Profit Overview
-│   ├── page2_product_profitability.jpg         # Page 2: Product & Profitability Deep Dive
-│   └── page3_customer_regional.jpg             # Page 3: Customer & Regional Dynamics
+│   ├── page1_executive_overview.webp           # Page 1: Executive Revenue & Profit Overview
+│   ├── page2_product_profitability.webp        # Page 2: Product & Profitability Deep Dive
+│   └── page3_customer_regional.webp            # Page 3: Customer & Regional Dynamics
 ├── sql/
 │   ├── init.sql                                # Automated schema creation & CSV COPY loader
 │   └── analysis_queries.sql                    # Production business analytics & KPI queries
