@@ -227,14 +227,12 @@ ADDCOLUMNS (
 
 ## 5. Tech Stack & Engineering Highlights
 
-| Technology | Role / Version | Implementation Purpose |
-| :--- | :--- | :--- |
-| **Power BI Desktop** | Business Intelligence & Reporting | Multi-page executive dashboard with interactive slicers, cross-filtering, and drill-downs |
-| **DAX** | Analytical Calculation Engine | Time intelligence (`SAMEPERIODLASTYEAR`, `TOTALYTD`), dynamic formatting, and custom KPIs |
-| **PostgreSQL 16** | Relational Database (`Alpine`) | Enterprise SQL storage containerized via Docker for reliable local execution |
-| **pgAdmin 4** | Database Administration GUI | Web-based management interface for executing analytical queries and inspecting tables |
-| **Docker & Compose** | Containerization & Orchestration | Isolated multi-service environment (`postgres` + `pgadmin`) with zero local install overhead |
-| **SQL** | Analytical Querying | CTEs, window functions (`LAG`), aggregations, and data quality validation queries |
+- **Business Intelligence**: Microsoft Power BI Desktop
+- **Calculation Engine**: DAX (Time Intelligence & Custom Measures)
+- **Database**: PostgreSQL 16 (Alpine)
+- **Database GUI**: pgAdmin 4
+- **Containerization**: Docker & Docker Compose
+- **Analytics**: Advanced SQL (CTEs, Window Functions, Audits)
 
 ---
 
