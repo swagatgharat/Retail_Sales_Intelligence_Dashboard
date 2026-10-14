@@ -1,0 +1,37 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Microsoft Office & Power BI Temporary Lock Files
+~$*.xlsx
+~$*.xls
+~$*.csv
+~$*.pbix
+*.tmp
+
+# Docker & Database Volumes
+pgdata/
+postgres-data/
+*.log
+
+# Antigravity & Agent Temporary Directories
+.agents/
+scratch/
